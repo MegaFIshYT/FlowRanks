@@ -28,4 +28,4 @@ If applicable, add screenshots.
 - Fabric Loader version:
 - Fabric API version:
 - FlowRanks version:
-- Lunar Client: Yes / No
+-  Minecraft client:
