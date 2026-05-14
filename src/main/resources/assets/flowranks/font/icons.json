@@ -1,0 +1,75 @@
+﻿{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "flowranks:icons/overall.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["\uE000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "flowranks:icons/sword.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "flowranks:icons/axe.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "flowranks:icons/uhc.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "flowranks:icons/vanilla.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "flowranks:icons/mace.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["\uE005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "flowranks:icons/pot.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["\uE006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "flowranks:icons/nethop.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["\uE007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "flowranks:icons/smp.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["\uE008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "flowranks:icons/diamond_smp.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["\uE009"]
+    }
+  ]
+}
+

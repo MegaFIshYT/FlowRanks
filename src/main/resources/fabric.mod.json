@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "flowranks",
+  "version": "${version}",
+  "name": "FlowRanks",
+  "description": "FlowPvP ranks and ELO tracker",
+  "authors": [
+    "_MegaFishYT_"
+  ],
+  "contact": {
+    "homepage": "https://github.com/MegaFIshYT/FlowRanks",
+    "sources": "https://github.com/MegaFIshYT/FlowRanks",
+    "issues": "https://github.com/MegaFIshYT/FlowRanks/issues"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "gg.flowpvp.client.FlowPvPClient"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "flowranks.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.2",
+    "fabric-api": "*",
+    "minecraft": ">=1.21.11 <=26.2",
+    "java": ">=21"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "gg.flowpvp.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "EntityRendererMixin",
+    "PlayerTabOverlayMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

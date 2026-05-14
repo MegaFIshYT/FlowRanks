@@ -1,0 +1,11 @@
+{
+  "key.categories.flowranks": "FlowRanks",
+  "key.category.flowranks": "FlowRanks",
+  "key.category.flowranks.category": "FlowRanks",
+  "key.categories.flowranks.category": "FlowRanks",
+  "flowranks:category": "FlowRanks",
+  "key.flowranks.open": "Open FlowRanks Leaderboard",
+  "key.flowranks.cycle_mode": "Cycle FlowRanks Mode",
+  "key.flowranks.toggle_overlay": "Toggle FlowRanks Name Tags",
+  "key.flowranks.hud_editor": "Open FlowRanks HUD Editor"
+}
